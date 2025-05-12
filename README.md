@@ -16,19 +16,19 @@ This implementation replicates the structure and training strategy of ResNet18 t
 
 ## 🔧 Setup Instructions
 
-Clone the repository
+Clone the repository.
 ```
 git clone https://github.com/Drone944/Resnet-18-on-CIFAR-10.git
 cd Resnet-18-on-CIFAR-10
 ```
 
-Create and actvate a python virtual environment
+Create and actvate a python virtual environment.
 ```
 python -m venv .venv
 source .venv/bin/activate
 ```
 
-Install the requirements
+Install the requirements.
 ```
 pip install -r requirements.txt
 ```
