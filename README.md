@@ -1,4 +1,4 @@
-# 🧠 ResNet18 on CIFAR-10
+# ResNet18 on CIFAR-10
 
 This repository contains a PyTorch implementation of the  paper:  
 **"Deep Residual Learning for Image Recognition."**  
@@ -6,7 +6,7 @@ I used a ResNet-18 architecture and trained it on the CIFAR-10 dataset.
 
 ---
 
-## 📝 Paper Summary
+## Paper Summary
 
 The ResNet architecture introduces **residual connections** to ease the training of very deep networks by allowing gradients to flow more easily.  
 This implementation replicates the structure and training strategy of ResNet18 tailored for CIFAR-10.
@@ -14,7 +14,7 @@ This implementation replicates the structure and training strategy of ResNet18 t
 ---
 
 
-## 🔧 Setup Instructions
+## Setup Instructions
 
 Clone the repository
 ```
